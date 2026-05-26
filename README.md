@@ -8,7 +8,7 @@ A lightweight Google Apps Script to automate your Gmail inbox management. This s
 
 ## 🚀 Features
 - **Auto-Archive**: Cleans your inbox of newsletters or notifications while keeping them searchable.
-- **Auto-Delete**: Moves unwanted clutter to the trash automatically.
+- **Auto-Delete**: Moves unwanted clutter to the trash automatically after  the time period.
 - **Safety Star**: The script will **never** touch an email you have starred, even if it has the target label.
 - **Batch Processing**: Built to respect Gmail API limits (handles 100 emails per run).
 
